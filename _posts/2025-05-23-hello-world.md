@@ -8,7 +8,22 @@ date:   2025-05-23
 
 Welcome to my very first post! This is more or less a test to see how posting works on my end.
 
-### Theorem. $\sqrt{2}$ is irrational.
+{% raw %}
+\[
+x^2 + y^2 = z^2
+\]
+{% endraw %}
+
+\( x^2 \)
+\\( y^2 \\)
+
+<p>Inline test: \( a^2 + b^2 = c^2 \)</p>
+
+<p>Block test:</p>
+\[ E = mc^2 \]
+
+
+### Theorem. $ \sqrt{2} $ is irrational.
 
 Proof. Suppose for a contradiction $\sqrt{2}$ is rational.
 Then  $\sqrt{2} = \frac{p}{q}$ for some integers $p$ and $q$.
