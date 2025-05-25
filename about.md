@@ -4,23 +4,22 @@ title: About
 permalink: /about/
 ---
 
-## About Myself
-Hello! I am a student at **Truman State University**. I am studying Mathematics + CS.  
-I have pretty heavy interest in higher level mathematics — hence why I have made this page.
+## About Me  
+Hello! I’m a student at **Truman State University** studying Mathematics and Computer Science. My focus leans heavily into higher-level math, which is what motivated me to create this site.  
 
-Here is my current coursework:
-- MATH 451: Algebraic Structures I  
-- MATH 461: Advanced Calculus I  
-- CS 260: Object Oriented Programming  
-- CS 333: Computer Architecture & Systems Programming
+**Current coursework:**  
+- **MATH 451:** Algebraic Structures I  
+- **MATH 461:** Advanced Calculus I  
+- **CS 260:** Object-Oriented Programming  
+- **CS 333:** Computer Architecture & Systems Programming  
 
-## About the Page
+## About This Page  
+This is where I share my math notes, mostly for my own reference but also for anyone else who might find them useful. Expect:  
 
-Here you can find all my math notes.
+- **Coursework notes:** From classes like Advanced Calculus or Algebraic Structures.  
+- **Self-study topics:** For example, notes on dual numbers and automatic differentiation.  
+- **Interesting problems:** Solutions or thoughts on problems from contests like the Putnam Exam.  
 
-- I may post notes from coursework or from self-study. For example, I may posts notes on Convergence.  
-- I may also post "exploration" notes. For example, I may post notes on Dual Numbers and auto differentiation.  
-- I also may post about interesting problems, such as Putnam Exam Problems.
+I might also post about CS topics or unrelated personal projects—this isn’t strictly limited to math.  
 
-
-Though, what I post is not limited to these. Maybe in the future I post something more Compsci related, or maybe I might blog about a personal experience completely unrelated to anything.
+If you spot errors or want to contact me, please email me at **eddie.gibbons14@gmail.com**
