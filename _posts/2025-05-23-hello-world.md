@@ -13,17 +13,25 @@ Welcome to my very first post! This is more or less a test to see how posting wo
 Proof. Suppose for a contradiction $\sqrt{2}$ is rational.
 Then  $\sqrt{2} = \frac{p}{q}$ for some integers $p$ and $q$.
 Additionally since all rational numbers have a *simplest form*,
-we can assume $p$ and $q$ have no common factors.
+we can assume $p$ and $q$ have no common factors:
 
-$\implies \sqrt{2} q = p $  
-$\implies 2q^2 = p^2 $
+$$
+\begin{array}{l@{\;}c@{\;}r@{}l}
+& \sqrt{2} q & = & p  \\
+\implies & 2q^2 & = & p^2 
+\end{array}
+$$
 
-And clearly, since $p^2$ is even, so $p$ must also be even.
-So, $p = 2k$ for some integer $k$.
+And clearly, $p^2$ is even, so $p$ must also be even.
+So, $p = 2k$ for some integer $k$:
 
-$\implies 2q^2 = (2k)^2 $  
-$\implies 2q^2 = 4k^2 $  
-$\implies q^2 = 2k^2 $
+$$
+\begin{array}{l@{\;}c@{\;}r@{}l}
+& 2q^2 & = & (2k)^2  \\
+\implies & 2q^2 & = & 4k^2  \\
+\implies & q^2 & = & 2k^2 \\
+\end{array}
+$$
 
 And similarly, we see that $q^2$ is even, so $q$ must also be even.
 
