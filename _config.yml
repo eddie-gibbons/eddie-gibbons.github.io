@@ -21,7 +21,7 @@
 title: Eddie Gibbons' Math Notes
 email: eddie.gibbons14@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my digital math notebook. Any math notes worth sharing I put here.
+  A curated collection of my math notes and explorations
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://eddie-gibbons.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  eddie-gibbons

@@ -35,7 +35,7 @@ Substituting:
 $$
 \begin{array}{l@{\;}c@{\;}r@{}l}
  & 2(xa')^n + 3(xb')^n & = & 4(xc')^n \\
-\implies & x^n\Big(2(a')^n + 3(b')^n\Big) & = & x^n \Big(4(c')^n\Big) \\
+\implies & x^n\big(2(a')^n + 3(b')^n\big) & = & x^n \big(4(c')^n\big) \\
 \implies & 2(a')^n + 3(b')^n & = & 4(c')^n
 \end{array}
 $$
@@ -44,7 +44,7 @@ Thus, primitive solutions must exist if any solution exists.
 
 ---
 
-**Case $n=2$:**
+**Case 1.** $n=2$:
 
 $$
 \begin{array}{l@{\;}c@{\;}r@{}l}
@@ -77,7 +77,7 @@ Consider the equation modulo 8:
 
 No combination sums to $1 \bmod 8$, giving a contradiction as desired.
 
-**Case $n>2$:**  
+**Case 2.** $n>2$:  
 
 $$
 \begin{array}{l@{\;}c@{\;}r@{}l}
@@ -101,8 +101,8 @@ Thus $a$ is even. Let $a=2j$:
 $$
 \begin{array}{l@{\;}c@{\;}r@{}l}
 \implies & 2(2j)^{n} + 3(2i)^{n} & = & 4c^{n} \\
-\implies & 8\Big(2^{n-3}j^{n} + 3\cdot2^{n-3}i^{n}\Big) & = & 4c^{n} \\
-\implies & c^{n} & = & 2\Big(2^{n-3}j^{n} + 3\cdot2^{n-3}i^{n}\Big)
+\implies & 8\big(2^{n-3}j^{n} + 3\cdot2^{n-3}i^{n}\big) & = & 4c^{n} \\
+\implies & c^{n} & = & 2\big(2^{n-3}j^{n} + 3\cdot2^{n-3}i^{n}\big)
 \end{array}
 $$
 
