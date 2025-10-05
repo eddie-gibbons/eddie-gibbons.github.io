@@ -1,2 +1,2 @@
 # eddie-gibbons.github.io
-Portfolio Website
+Personal Website
